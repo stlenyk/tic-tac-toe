@@ -1,7 +1,3 @@
-//
-// Created by stlen on 15.06.2021.
-//
-
 #include "gamestate.h"
 
 bool GameState::changeState(size_t i, size_t j, SquareState newState) {
